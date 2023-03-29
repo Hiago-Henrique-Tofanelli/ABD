@@ -6,4 +6,4 @@
 # **Projetos voltados à disciplina de Administração de Banco de Dados**
 * Hiago Henrique Tofanelli
 * 
-* 
+* Vinícius Bertoldi Motta
